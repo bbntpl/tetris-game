@@ -1,8 +1,4 @@
 # tetris-game
-
-[Live Preview](https://bvrbryn445.github.io/tetris-game)
-Date: 2021
-
 This is my tetris game implementation using vanilla Javascript with a basic idea of how the tetris logic game works while following it through a tutorial video.
 
 ### Purpose of this mini-project
